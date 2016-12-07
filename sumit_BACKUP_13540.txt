@@ -1,0 +1,17 @@
+ddhdhd
+<<<<<<< HEAD
+qq
+qqq
+w
+w
+w
+w:wq
+:wq
+=======
+dddddhdd
+dddd
+sumit ahuja
+ahuja
+sjsjs
+`
+>>>>>>> mygit
